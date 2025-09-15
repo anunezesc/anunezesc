@@ -7,7 +7,7 @@
 
 <h2>Certifications</h2>
   
-  -  [Security+](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+  -  [Security+](https://www.credly.com/badges/8a9d4020-c27f-489d-86af-199545289bc4/linked_in?t=sx7qxp)
   - [CCNA](https://www.youtube.com/watch?v=E2MwRWxDBkA) 
 <h2>📺 Popular YouTube Videos</h2>
 
