@@ -8,6 +8,8 @@
 <h2>Certifications</h2>
   
   -  [Security+](https://www.credly.com/badges/8a9d4020-c27f-489d-86af-199545289bc4/linked_in?t=sx7qxp)
+  -  AZ 900
+  -  AWS CCP
   - CCNA- Coming soon!
 
 
